@@ -96,7 +96,7 @@ Inside here, define your `reset_all` and `count` methods.
 
 Important! Remember to add `require_relative '../lib/concerns/memorable'` to
 your environment file before running any tests. We've already provided that
-line for you in fact! All you have to do is un-comment it out. :)
+line for you in fact! All you have to do is un-comment it out. :
 
 Once you define the two class methods mentioned above inside of the `Memorable`
 module, use the `extend` keyword to extend those methods, as class methods,
